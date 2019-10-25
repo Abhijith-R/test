@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Abhijith-R/SDWAN_Data_Prefix_Nslookup)
+
 # Automation of Data Prefix List updation on vManage
 New prefixes are added to a domain time to time. This script intends to automate the querying for new prefixes related to a domain and update the same to the data prefix list on vManage without human intervention.
 
