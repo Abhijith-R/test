@@ -10,12 +10,13 @@ New prefixes are added to a domain time to time. This script intends to automate
 ***
 
 #### Prerequisites
-* Python 2.7/3.0
+* Python 2.7
 * PyCharm/Any text editor
 * Flask
 
 ### Steps to Reproduce
 * Download/clone the repository
+* Install the reuirements using ```pip install -r requirements.txt```
 * Make sure you make changes in the nslookup_google.py inside scripts folder with a valid vManage IP
 * Modify the domain name as required in the code.
 * Execute using a text editor such as pycharm
